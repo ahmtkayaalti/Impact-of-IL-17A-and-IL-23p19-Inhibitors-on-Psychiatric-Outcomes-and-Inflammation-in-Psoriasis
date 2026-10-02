@@ -1,0 +1,113 @@
+N = 235
+
+=== TABLE 1: Demographics ===
+Age: mean 41.6 +/- 13.9; median 41.0 (31.0-50.0)
+sex: Female 118 (50.2%); Male 117 (49.8%)
+marital: Married 163 (69.4%); Single 62 (26.4%); Widowed 10 (4.3%)
+education: Primary 68 (28.9%); Middle 41 (17.4%); High school 69 (29.4%); University 57 (24.3%)
+income: <10,000 81 (34.5%); 10,000-20,000 79 (33.6%); >20,000 74 (31.5%); code 4 1 (0.4%)
+Comorbidity: none 179 (76.2%); at least one 56 (23.8%)
+  Diabetes mellitus: 19 (8.1%)
+  Hypertension: 18 (7.7%)
+  Coronary artery disease: 6 (2.6%)
+  Arrhythmia: 3 (1.3%)
+  Nephrolithiasis: 1 (0.4%)
+  Hypothyroidism: 6 (2.6%)
+  Allergic rhinitis: 2 (0.9%)
+  Migraine: 3 (1.3%)
+  Hyperlipidemia: 7 (3.0%)
+  Psoriatic arthritis: 11 (4.7%)
+  Chronic kidney disease: 1 (0.4%)
+  PCOS: 1 (0.4%)
+Treatment: Guselkumab 63 (26.8%); Risankizumab 62 (26.4%); Ixekizumab 59 (25.1%); Secukinumab 50 (21.3%); Unknown 1 (0.4%)
+
+=== TABLE 2: Baseline vs month 6 (median (IQR), Wilcoxon) ===
+PASI    13.1 (10.1-18.3)       0.4 (0.0-1.4)          p <0.001  r 0.87 (95% CI 0.87-0.87)
+CRP     2.10 (0.88-5.00)       1.70 (0.88-3.36)       p <0.001  r 0.25 (95% CI 0.12-0.37)
+NLR     2.34 (1.78-3.00)       2.00 (1.52-2.60)       p <0.001  r 0.30 (95% CI 0.17-0.42)
+DLQI    12.0 (9.0-17.0)        3.0 (1.0-5.0)          p <0.001  r 0.86 (95% CI 0.85-0.87)
+HADS-D  8.0 (5.0-11.0)         3.0 (2.0-6.0)          p <0.001  r 0.81 (95% CI 0.77-0.83)
+HADS-A  8.0 (4.0-11.0)         3.0 (2.0-6.0)          p <0.001  r 0.78 (95% CI 0.73-0.81)
+
+=== HADS >= 8 (clinically significant symptoms) ===
+HADS-D: baseline 54.5%, month 6 11.9%; remission among symptomatic 82.0%; NNT 1.22
+HADS-A: baseline 51.9%, month 6 11.5%; remission among symptomatic 80.3%; NNT 1.24
+
+=== TABLE 3: CRP and NLR by biologic (n = 234) ===
+CRP Secukinumab   M0 1.83 (0.60-2.90)  M6 1.60 (0.84-3.01)  change -0.05 (-1.07-0.57)  p 0.315  r 0.14 (0.01-0.41)
+CRP Ixekizumab    M0 1.87 (0.95-5.40)  M6 2.00 (1.03-4.44)  change 0.05 (-1.60-0.90)  p 0.412  r 0.11 (0.01-0.35)
+CRP Risankizumab  M0 2.62 (0.84-4.81)  M6 2.00 (0.80-3.50)  change -0.25 (-2.57-0.37)  p 0.017  r 0.30 (0.07-0.51)
+CRP Guselkumab    M0 2.30 (1.04-8.20)  M6 1.50 (0.74-3.20)  change -0.47 (-4.69-0.35)  p 0.003  r 0.38 (0.14-0.58)
+  Kruskal-Wallis CRP M0: p 0.108
+  Kruskal-Wallis CRP M6: p 0.346
+  Kruskal-Wallis CRP change: p 0.183
+NLR Secukinumab   M0 2.27 (1.99-2.89)  M6 2.08 (1.54-2.62)  change -0.22 (-0.92-0.56)  p 0.208  r 0.18 (0.01-0.45)
+NLR Ixekizumab    M0 2.34 (1.86-3.19)  M6 2.04 (1.50-2.60)  change -0.22 (-1.21-0.57)  p 0.083  r 0.23 (0.02-0.46)
+NLR Risankizumab  M0 2.50 (1.77-3.19)  M6 1.95 (1.46-2.52)  change -0.38 (-0.92-0.22)  p 0.005  r 0.36 (0.14-0.58)
+NLR Guselkumab    M0 2.27 (1.73-2.75)  M6 1.96 (1.57-2.40)  change -0.22 (-0.85-0.14)  p 0.001  r 0.41 (0.19-0.60)
+  Kruskal-Wallis NLR M0: p 0.731
+  Kruskal-Wallis NLR M6: p 0.695
+  Kruskal-Wallis NLR change: p 0.790
+
+=== TABLE 4: DLQI and HADS by biologic ===
+DLQI    Risankizumab  13.0 (7.0-18.2)      3.0 (2.0-5.0)      median change -10.0  r 0.87 (0.87-0.87)  p <0.001
+DLQI    Ixekizumab    11.0 (9.0-14.0)      2.0 (1.0-5.0)      median change  -9.0  r 0.87 (0.87-0.87)  p <0.001
+DLQI    Secukinumab   15.0 (8.5-19.2)      3.0 (1.8-6.0)      median change -11.5  r 0.86 (0.84-0.87)  p <0.001
+DLQI    Guselkumab    11.0 (9.0-15.0)      4.0 (2.0-6.0)      median change  -8.0  r 0.85 (0.82-0.87)  p <0.001
+HADS-D  Risankizumab  9.0 (4.8-13.0)       4.0 (2.0-6.0)      median change  -4.0  r 0.77 (0.67-0.84)  p <0.001
+HADS-D  Ixekizumab    8.0 (5.0-11.0)       3.0 (1.0-5.0)      median change  -4.0  r 0.82 (0.76-0.86)  p <0.001
+HADS-D  Secukinumab   9.0 (5.8-13.0)       3.0 (1.8-7.0)      median change  -5.0  r 0.80 (0.71-0.87)  p <0.001
+HADS-D  Guselkumab    7.0 (5.0-10.0)       3.0 (2.0-5.0)      median change  -3.0  r 0.85 (0.82-0.87)  p <0.001
+HADS-A  Risankizumab  8.0 (4.0-13.0)       4.0 (2.0-6.2)      median change  -3.0  r 0.74 (0.61-0.84)  p <0.001
+HADS-A  Ixekizumab    8.0 (6.0-9.0)        2.0 (1.0-6.0)      median change  -4.0  r 0.84 (0.81-0.87)  p <0.001
+HADS-A  Secukinumab   6.5 (4.0-11.2)       3.0 (1.0-6.0)      median change  -3.0  r 0.70 (0.55-0.81)  p <0.001
+HADS-A  Guselkumab    8.0 (5.0-10.0)       4.0 (2.0-5.0)      median change  -4.0  r 0.81 (0.74-0.86)  p <0.001
+
+=== Pairwise comparisons of change (Dunn, Bonferroni) ===
+DLQI reduction: Kruskal-Wallis p 0.023
+  Secukinumab vs Ixekizumab: p 1.000
+  Secukinumab vs Risankizumab: p 1.000
+  Secukinumab vs Guselkumab: p 0.017
+  Ixekizumab vs Risankizumab: p 1.000
+  Ixekizumab vs Guselkumab: p 0.284
+  Risankizumab vs Guselkumab: p 0.341
+CRP reduction: Kruskal-Wallis p 0.183
+  Secukinumab vs Ixekizumab: p 1.000
+  Secukinumab vs Risankizumab: p 1.000
+  Secukinumab vs Guselkumab: p 0.555
+  Ixekizumab vs Risankizumab: p 1.000
+  Ixekizumab vs Guselkumab: p 0.411
+  Risankizumab vs Guselkumab: p 1.000
+NLR reduction: Kruskal-Wallis p 0.790
+  Secukinumab vs Ixekizumab: p 1.000
+  Secukinumab vs Risankizumab: p 1.000
+  Secukinumab vs Guselkumab: p 1.000
+  Ixekizumab vs Risankizumab: p 1.000
+  Ixekizumab vs Guselkumab: p 1.000
+  Risankizumab vs Guselkumab: p 1.000
+
+=== Spearman: CRP/NLR reduction vs HADS improvement, by PASI90 ===
+PASI90 achieved: 178 (75.7%)
+CRP non-PASI90 (n=57) HADS-D: rho 0.331, p 0.012
+CRP non-PASI90 (n=57) HADS-A: rho 0.363, p 0.005
+CRP PASI90     (n=178) HADS-D: rho 0.136, p 0.070
+CRP PASI90     (n=178) HADS-A: rho 0.261, p <0.001
+NLR non-PASI90 (n=57) HADS-D: rho -0.084, p 0.534
+NLR non-PASI90 (n=57) HADS-A: rho -0.080, p 0.553
+NLR PASI90     (n=178) HADS-D: rho 0.071, p 0.349
+NLR PASI90     (n=178) HADS-A: rho 0.109, p 0.146
+
+=== TABLE 5: Multiple linear regression (standardised beta) ===
+Change defined as month 6 minus baseline; adjusted for delta-PASI, age and sex.
+HADS-D change: F(5,229) = 4.50, p <0.001, R2 = 0.089, adjusted R2 = 0.070
+  CRP change   beta  0.202  95% CI  0.074 to  0.330  p 0.002
+  NLR change   beta -0.009  95% CI -0.135 to  0.117  p 0.893
+  PASI change  beta  0.185  95% CI  0.058 to  0.312  p 0.004
+  Age          beta -0.024  95% CI -0.149 to  0.102  p 0.711
+  Sex          beta  0.046  95% CI -0.079 to  0.171  p 0.473
+HADS-A change: F(5,229) = 5.09, p <0.001, R2 = 0.100, adjusted R2 = 0.080
+  CRP change   beta  0.277  95% CI  0.150 to  0.405  p <0.001
+  NLR change   beta  0.047  95% CI -0.078 to  0.172  p 0.460
+  PASI change  beta  0.029  95% CI -0.097 to  0.155  p 0.650
+  Age          beta -0.056  95% CI -0.180 to  0.069  p 0.381
+  Sex          beta  0.068  95% CI -0.057 to  0.192  p 0.285
